@@ -16,4 +16,4 @@
 
 <h3>Exemplos</h3>
 <h4>exemplo 1</h4>
-![somatorio_exemplo](https://github.com/Joao-Paulo-Moreira/somatorioDivisivel/assets/99214102/0016d5ad-5268-4322-9601-9a6678944559)
+![descrição da imagem](https://imgur.com/a/soKGCEy)https://imgur.com/a/soKGCEy)
