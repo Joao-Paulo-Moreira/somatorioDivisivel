@@ -13,3 +13,7 @@
   <li>Veja o resultado <br> O script calculará o somatório de todos os números divisíveis por 3 ou 5 que são inferiores ao número inserido e exibirá o resultado.</li>
   <li>Observe a mensagem de erro <br> Caso você coloque um valor invalido, o script vai te retornar uma mensagem de erro.</li>
 </ol>
+
+<h3>Exemplos</h3>
+<h4>exemplo 1</h4>
+![somatorio_exemplo](https://github.com/Joao-Paulo-Moreira/somatorioDivisivel/assets/99214102/0016d5ad-5268-4322-9601-9a6678944559)
