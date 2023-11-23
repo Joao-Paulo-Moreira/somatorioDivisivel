@@ -23,6 +23,8 @@ Já nessa segunda imagem nós temos o valor de 11, que irá retornar 33, que é 
 <img src="somatorio_exemplo_2.png">
 
 <h3>Requisitos</h3>
-<ul>
   <li>Para rodar esse projeto você vai precisar apenas do Node.js</li>
-<\ul>
+
+<h3>Autor</h3>
+<li>João Paulo Moreira</li>
+<p>Espero que este README seja útil!</p>
