@@ -16,6 +16,8 @@
 
 <h3>Exemplos</h3>
 <h4>exemplo 1</h4>
-Nessa primeira imagem nos vemos o valo de 10, que irá retornar 23, que é o somatório dos números 3, 5, 6 e 9
+Nessa primeira imagem temos o valor de 10, que irá retornar 23, que é o somatório dos números 3, 5, 6 e 9
 <img src="somatorio_exemplo_1.png">
-
+<h4>Exemplo 2</h4>
+Já nessa segunda imagem nós temos o valor de 11, que irá retornar 33, que é o somatório dos números 3, 5, 6, 9 e 10
+<img src="somatorio_exemplo_2.png">
