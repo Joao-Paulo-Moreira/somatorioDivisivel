@@ -17,5 +17,5 @@
 <h3>Exemplos</h3>
 <h4>exemplo 1</h4>
 ![Nessa primeira imagem nos vemos o valo de 10, que irá retornar 23, que é o somatório dos números 3, 5, 6 e 9](`somatorio_exemplo_1.png`)
-![Nessa primeira imagem nos vemos o valo de 10, que irá retornar 23, que é o somatório dos números 3, 5, 6 e 9](https://imgur.com/a/soKGCEy)https://imgur.com/a/soKGCEy)
+<img src="somatorio_exemplo_1.png">
 
