@@ -6,7 +6,7 @@
 <h3>Como usar</h3>
 
 <ol>
-  <li>Clone o repositório <br> git clone https://github.com/Joao-Paulo-Moreira/somatorioDivisive.git</li>
+  <li>Clone o repositório <br> git clone https://github.com/Joao-Paulo-Moreira/somatorioDivisivel.git</li>
   <li>Abra o  arquivo <br> abra o arquivo `script.js` no seu editor de código</li>
   <li>Execute o script <br> Execute o script no Node.js</li>
   <li>Insira um número <br> Quando você executar o script, você vai precisar colocar um númerio inteiro positivo.</li>
@@ -21,3 +21,8 @@ Nessa primeira imagem temos o valor de 10, que irá retornar 23, que é o somat�
 <h4>Exemplo 2</h4>
 Já nessa segunda imagem nós temos o valor de 11, que irá retornar 33, que é o somatório dos números 3, 5, 6, 9 e 10
 <img src="somatorio_exemplo_2.png">
+
+<h3>Requisitos</h3>
+<ul>
+  <li>Para rodar esse projeto você vai precisar apenas do Node.js</li>
+<\ul>
