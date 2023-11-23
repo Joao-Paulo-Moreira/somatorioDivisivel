@@ -27,4 +27,4 @@ Já nessa segunda imagem nós temos o valor de 11, que irá retornar 33, que é 
 
 <h3>Autor</h3>
 <li>João Paulo Moreira</li>
-<p>Espero que este README seja útil!</p>
+<p>Espero que este README seja útil!</p> 
